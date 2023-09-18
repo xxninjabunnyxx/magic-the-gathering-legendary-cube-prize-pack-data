@@ -1,0 +1,107 @@
+---
+object: card
+id: 0dec7e20-047d-46e6-b0ed-fba450494895
+oracle_id: 53236dd7-845a-444c-96d5-f41ed7325d8f
+multiverse_ids: []
+mtgo_id: 58995
+name: Rhystic Study
+lang: en
+released_at: '2015-11-18'
+uri: https://api.scryfall.com/cards/0dec7e20-047d-46e6-b0ed-fba450494895
+scryfall_uri: https://scryfall.com/card/pz1/32/rhystic-study?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/d/0dec7e20-047d-46e6-b0ed-fba450494895.jpg?1592487900
+  normal: https://cards.scryfall.io/normal/front/0/d/0dec7e20-047d-46e6-b0ed-fba450494895.jpg?1592487900
+  large: https://cards.scryfall.io/large/front/0/d/0dec7e20-047d-46e6-b0ed-fba450494895.jpg?1592487900
+  png: https://cards.scryfall.io/png/front/0/d/0dec7e20-047d-46e6-b0ed-fba450494895.png?1592487900
+  art_crop: https://cards.scryfall.io/art_crop/front/0/d/0dec7e20-047d-46e6-b0ed-fba450494895.jpg?1592487900
+  border_crop: https://cards.scryfall.io/border_crop/front/0/d/0dec7e20-047d-46e6-b0ed-fba450494895.jpg?1592487900
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: Whenever an opponent casts a spell, you may draw a card unless that player
+  pays {1}.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: banned
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e1f3015e-fd53-4c01-aace-78f4372e63fb
+set: pz1
+set_name: Legendary Cube Prize Pack
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/e1f3015e-fd53-4c01-aace-78f4372e63fb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0dec7e20-047d-46e6-b0ed-fba450494895/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53236dd7-845a-444c-96d5-f41ed7325d8f&unique=prints
+collector_number: '32'
+digital: true
+rarity: rare
+flavor_text: Friends teach what you want to know. Enemies teach what you *need* to
+  know.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 3129ebcd-58ab-4d7f-886d-a4cbbe30e1f6
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 35
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '10.95'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rhystic+Study&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rhystic+Study&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rhystic+Study
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Rhystic+Study&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rhystic+Study&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58995?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

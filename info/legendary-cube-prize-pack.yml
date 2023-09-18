@@ -1,0 +1,17 @@
+---
+object: set
+id: e1f3015e-fd53-4c01-aace-78f4372e63fb
+code: pz1
+mtgo_code: pz1
+arena_code: pz1
+name: Legendary Cube Prize Pack
+uri: https://api.scryfall.com/sets/e1f3015e-fd53-4c01-aace-78f4372e63fb
+scryfall_uri: https://scryfall.com/sets/pz1
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apz1&unique=prints
+released_at: '2015-11-18'
+set_type: treasure_chest
+card_count: 149
+digital: true
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pz1.svg?1694404800

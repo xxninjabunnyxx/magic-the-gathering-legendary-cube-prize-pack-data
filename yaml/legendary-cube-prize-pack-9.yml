@@ -1,0 +1,128 @@
+---
+object: card
+id: df6a2188-f018-4a18-aea5-61cbd5ffe09a
+oracle_id: a554aa2c-d947-4fc6-929d-d5891f467615
+multiverse_ids: []
+mtgo_id: 59119
+name: Nahiri, the Lithomancer
+lang: en
+released_at: '2015-11-18'
+uri: https://api.scryfall.com/cards/df6a2188-f018-4a18-aea5-61cbd5ffe09a
+scryfall_uri: https://scryfall.com/card/pz1/9/nahiri-the-lithomancer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/f/df6a2188-f018-4a18-aea5-61cbd5ffe09a.jpg?1562939904
+  normal: https://cards.scryfall.io/normal/front/d/f/df6a2188-f018-4a18-aea5-61cbd5ffe09a.jpg?1562939904
+  large: https://cards.scryfall.io/large/front/d/f/df6a2188-f018-4a18-aea5-61cbd5ffe09a.jpg?1562939904
+  png: https://cards.scryfall.io/png/front/d/f/df6a2188-f018-4a18-aea5-61cbd5ffe09a.png?1562939904
+  art_crop: https://cards.scryfall.io/art_crop/front/d/f/df6a2188-f018-4a18-aea5-61cbd5ffe09a.jpg?1562939904
+  border_crop: https://cards.scryfall.io/border_crop/front/d/f/df6a2188-f018-4a18-aea5-61cbd5ffe09a.jpg?1562939904
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Legendary Planeswalker — Nahiri
+oracle_text: |-
+  +2: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.
+  −2: You may put an Equipment card from your hand or graveyard onto the battlefield.
+  −10: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, "Equipped creature gets +5/+5 and has double strike," and equip {0}.
+  Nahiri, the Lithomancer can be your commander.
+loyalty: '3'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: a0f2a88f-ff00-4ef7-a9ed-e8457df2c9d3
+  component: token
+  name: Stoneforged Blade
+  type_line: Token Artifact — Equipment
+  uri: https://api.scryfall.com/cards/a0f2a88f-ff00-4ef7-a9ed-e8457df2c9d3
+- object: related_card
+  id: 8907c15d-831b-47d5-b2b5-7759876b8f33
+  component: token
+  name: Kor Soldier
+  type_line: Token Creature — Kor Soldier
+  uri: https://api.scryfall.com/cards/8907c15d-831b-47d5-b2b5-7759876b8f33
+- object: related_card
+  id: df6a2188-f018-4a18-aea5-61cbd5ffe09a
+  component: combo_piece
+  name: Nahiri, the Lithomancer
+  type_line: Legendary Planeswalker — Nahiri
+  uri: https://api.scryfall.com/cards/df6a2188-f018-4a18-aea5-61cbd5ffe09a
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e1f3015e-fd53-4c01-aace-78f4372e63fb
+set: pz1
+set_name: Legendary Cube Prize Pack
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/e1f3015e-fd53-4c01-aace-78f4372e63fb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/df6a2188-f018-4a18-aea5-61cbd5ffe09a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa554aa2c-d947-4fc6-929d-d5891f467615&unique=prints
+collector_number: '9'
+digital: true
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 5f395b89-48ab-4bd7-ac81-0d1c9607d25c
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6496
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '1.74'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nahiri%2C+the+Lithomancer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nahiri%2C+the+Lithomancer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nahiri%2C+the+Lithomancer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Nahiri%2C+the+Lithomancer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nahiri%2C+the+Lithomancer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/59119?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

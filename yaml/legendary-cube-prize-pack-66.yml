@@ -1,0 +1,106 @@
+---
+object: card
+id: 92565f48-b74a-4769-abfb-cfe0d6d67fb7
+oracle_id: 1890ef1b-38e5-432d-b040-f33cea7814e7
+multiverse_ids: []
+mtgo_id: 58955
+name: Punishing Fire
+lang: en
+released_at: '2015-11-18'
+uri: https://api.scryfall.com/cards/92565f48-b74a-4769-abfb-cfe0d6d67fb7
+scryfall_uri: https://scryfall.com/card/pz1/66/punishing-fire?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/2/92565f48-b74a-4769-abfb-cfe0d6d67fb7.jpg?1562924543
+  normal: https://cards.scryfall.io/normal/front/9/2/92565f48-b74a-4769-abfb-cfe0d6d67fb7.jpg?1562924543
+  large: https://cards.scryfall.io/large/front/9/2/92565f48-b74a-4769-abfb-cfe0d6d67fb7.jpg?1562924543
+  png: https://cards.scryfall.io/png/front/9/2/92565f48-b74a-4769-abfb-cfe0d6d67fb7.png?1562924543
+  art_crop: https://cards.scryfall.io/art_crop/front/9/2/92565f48-b74a-4769-abfb-cfe0d6d67fb7.jpg?1562924543
+  border_crop: https://cards.scryfall.io/border_crop/front/9/2/92565f48-b74a-4769-abfb-cfe0d6d67fb7.jpg?1562924543
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Instant
+oracle_text: |-
+  Punishing Fire deals 2 damage to any target.
+  Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: banned
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e1f3015e-fd53-4c01-aace-78f4372e63fb
+set: pz1
+set_name: Legendary Cube Prize Pack
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/e1f3015e-fd53-4c01-aace-78f4372e63fb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/92565f48-b74a-4769-abfb-cfe0d6d67fb7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1890ef1b-38e5-432d-b040-f33cea7814e7&unique=prints
+collector_number: '66'
+digital: true
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 540df3c7-a19e-488b-b4ad-b77d616f0cd5
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12335
+penny_rank: 4632
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Punishing+Fire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Punishing+Fire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Punishing+Fire
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Punishing+Fire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Punishing+Fire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58955?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
